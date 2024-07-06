@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jennifer_Dales_Lab_07_Loopy.iml" filepath="$PROJECT_DIR$/Jennifer_Dales_Lab_07_Loopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartAForLoops/PartAForLoops.iml" filepath="$PROJECT_DIR$/PartAForLoops/PartAForLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartBNestedForLoops/PartBNestedForLoops.iml" filepath="$PROJECT_DIR$/PartBNestedForLoops/PartBNestedForLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PartCDieRoller/PartCDieRoller.iml" filepath="$PROJECT_DIR$/PartCDieRoller/PartCDieRoller.iml" />
+    </modules>
+  </component>
+</project>
